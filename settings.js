@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 global.thumb = fs.readFileSync('./lib/bugs/venom.jpg')
 const BOTNAME = 'VAJIRA-MD|-WA-BOT™';
 const FOOTERNAME = '> ＶＡＪＩＲＡ -  ＭＤ - Ｖ4';
-global.owner = process.env.OWNER_NUMBER  || '94701992015' ;  // ADD YOUR NUMBER WITHOUT +
+global.owner = process.env.OWNER_NUMBER  || '254798229783' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=CA9wUQrB#bMVAGTX9AxLeHsnY-mInC8khwxgp6nq0LOHkV78ZV60' ,
